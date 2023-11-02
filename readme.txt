@@ -1,6 +1,10 @@
-#Data Titans: Unearthing Trends from LinkedIn Influencers
-Weather application is a software tool or mobile app that provides real-time weather information and forecasts to users. It uses data from weather stations, satellites, and weather models to deliver accurate weather updates for specific locations or regions.<br>
-<h2>Description</h2><br>
-The Weather Application is a simple web app that provides real-time weather information and forecasts for locations around the world. It allows users to check the current weather conditions and view upcoming forecasts to help them plan their activities accordingly.
+Data Titans: Unearthing Trends from LinkedIn Influencers 
 
+OUR TEAM ID - NM2023TMID05059
 
+Team Description
+
+Team Leader - THANGAPREETHI S (NM ID - F8D43970C8BA50F94254A947874EFAEF)
+Team Member 1 - SWETHA s (NM ID - 38BC1BB59EC865AB44D48191FFA561DC)
+Team Member 2 - USAIDHUSSAIN A (NM ID - 537ED0A386698F7862B4EA8055AEED28)
+Team Member 3 - VENKATESAN C (NM ID - 645A76FB18266CC88A3400995CB7CFE9)
